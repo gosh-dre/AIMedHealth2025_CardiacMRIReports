@@ -1,0 +1,51 @@
+{
+  "1" : {
+          "label": "Date of Birth",
+          "Searchkeywords": ["date of birth"],
+          "Prompt": "What is the date of birth of the patient?"
+
+       },
+       
+  "2" : {
+            "label": "Name",
+            "Searchkeywords": ["name"],
+            "Prompt": "What is the Name of the patient?"
+       },
+
+  "3" : {
+          "label": "GOSH Hospital Number",
+          "Searchkeywords": [""],
+          "Prompt": "What is the GOSH Hospital Number in the report?"
+     },
+
+     "4" : {
+          "label": "Scan Date",
+          "Searchkeywords": [""],
+          "Prompt": "What is the Scan date of the report?"
+     },
+
+
+     "5" : {
+          "label": "Hospital Name",
+          "Searchkeywords": [""],
+          "Prompt": "What is the name of the hospital in the report?"
+     },
+     
+     "6" : {
+          "label": "Report Title",
+          "Searchkeywords": [""],
+          "Prompt": "What is the Report title?"
+     },
+
+     "7" : {
+          "label": "NHS Number",
+          "Searchkeywords": [""],
+          "Prompt": "What is the NHS number in the report?"
+     },
+     
+     "8" : {
+          "label": "Referral Dr",
+          "Searchkeywords": [""],
+          "Prompt": "Who is the referrer or requesting consultant?"
+     }
+}
