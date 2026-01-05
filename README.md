@@ -1,5 +1,7 @@
 # QnA Tool : Question and Answer tool using Tranformers for Entity extraction
 
+**PLEASE NOTE:** This repository is not in active development and its requirements are not checked for vulnerabilities.  
+
 ## 🚀 Introduction
 
 We have developed this application to extract key entities from unstructured text with the help of Large Language Models.textual data in healthcare is often unlabelled and lacks structure, thereby constraining the use of
